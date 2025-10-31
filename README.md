@@ -2,10 +2,10 @@
 Luan van tot nghiep
 một số hình ảnh tổng quan:
 
-<img width="547" height="968" alt="user_map_screen" src="https://github.com/user-attachments/assets/68707027-f082-478c-85d8-d3272f969bd3" />
-<img width="548" height="966" alt="contact" src="https://github.com/user-attachments/assets/441000b5-05f0-47d5-af09-9b6e5a8af768" />
-<img width="557" height="988" alt="customer_request" src="https://github.com/user-attachments/assets/26921ee6-2c56-4dbe-b085-fb8ce1db4020" />
-<img width="558" height="987" alt="customer_request1" src="https://github.com/user-attachments/assets/6646422c-f842-4154-adff-c7f5b98327d8" />
+<img width="200" height="600" alt="user_map_screen" src="https://github.com/user-attachments/assets/68707027-f082-478c-85d8-d3272f969bd3" />
+<img width="200" height="600" alt="contact" src="https://github.com/user-attachments/assets/441000b5-05f0-47d5-af09-9b6e5a8af768" />
+<img width="200" height="600" alt="customer_request" src="https://github.com/user-attachments/assets/26921ee6-2c56-4dbe-b085-fb8ce1db4020" />
+<img width="200" height="600" alt="customer_request1" src="https://github.com/user-attachments/assets/6646422c-f842-4154-adff-c7f5b98327d8" />
 <img width="558" height="989" alt="customer_request2" src="https://github.com/user-attachments/assets/878c5a87-cd2f-4127-958c-b3eabb9e8703" />
 <img width="549" height="970" alt="detail_screen" src="https://github.com/user-attachments/assets/73268bf2-760b-4630-a631-157ab3e136f5" />
 <img width="546" height="970" alt="message" src="https://github.com/user-attachments/assets/278a913b-f8b7-40fd-b2c1-5481e0e9c788" />
